@@ -1,0 +1,5 @@
+# Archivos generados al compilar Java
+*.class
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
